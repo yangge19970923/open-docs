@@ -71,6 +71,14 @@ success 回调函数会携带一个 Object 类型的对象，其属性如下：
 | --- | --- | --- |
 | color | HexColor | 返回当前导航栏背景色。<br />ARGB 格式的十六进制颜色值，如 #323239FF。 |
 
+### Function complete
+
+complete 回调函数会携带一个 Object 类型的对象，其属性如下：
+
+| **属性** | **类型** | **描述** |
+| --- | --- | --- |
+| color | HexColor | 返回当前导航栏背景色。<br />ARGB 格式的十六进制颜色值，如 #323239FF。 |
+
 
 # 常见问题
 
